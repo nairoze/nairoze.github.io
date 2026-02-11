@@ -4,7 +4,7 @@ Nailah Rozette N. Banzuela
 BS Computer Science
 CMSC 100 C-4L
 Exercise#2: HTML and CSS
-Live Site: 
+Live Site: https://nairoze.github.io/
 
 ~Project Overview
 A single-page static website portfolio used to apply for a Frontend Software Engineer position at Gugil Co. It includes an autobiography, logo and feautured profile photo, skills related to management and web programming, and about previous projects. Deployed using GitHub Pages.
